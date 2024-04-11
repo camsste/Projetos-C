@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main() { 
+  int nota1 = 6;
+  int nota2 = 8;
+  //int media = (nota 1 + nota 2)/2;
+
+  printf("A média é %d", (nota1 + nota2)/2);
+}
